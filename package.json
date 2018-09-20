@@ -1,6 +1,6 @@
 {
   "name": "@wyze/bs-react-helmet",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Reason bindings to react-helmet",
   "repository": "https://github.com/bguzryanto/bs-react-helmet",
   "scripts": {
